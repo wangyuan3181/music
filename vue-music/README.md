@@ -1,6 +1,6 @@
 # vue-music
 
-> 音乐播放器
+> 个人简易音乐播放器
 
 ## Build Setup
 
@@ -18,7 +18,7 @@ npm run build
 npm run build --report
 ```
 ### 一点描述
-* 仓库链接钥匙
+* 远程库名字
 origin-music
 
 
