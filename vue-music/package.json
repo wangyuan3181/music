@@ -15,7 +15,10 @@
     "fastclick": "^1.0.6",
     "jsonp": "^0.2.1",
     "stylus": "^0.54.5",
+    "axios": "^0.16.1",
+    "vue-lazyload": "1.0.3",
     "stylus-loader": "^3.0.2",
+    "better-scroll": "^0.1.15",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
