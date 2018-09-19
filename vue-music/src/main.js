@@ -4,12 +4,11 @@ import App from './App'
 import router from './router'
 import fastclick from 'fastclick'
 import VueLazyload from 'vue-lazyload'
+import store from './store'
 
 import 'common/stylus/index.styl'
 
-fastclick.attach(document.body)//清除DIV中搜索按钮的300毫秒的延迟
-
-// Vue.config.productionTip = false
+fastclick.attach(document.body)
 
 Vue.use(VueLazyload, {
   loading: require('common/image/default.png')
@@ -19,5 +18,6 @@ Vue.use(VueLazyload, {
 new Vue({
   el: '#app',
   router,
+  store,
   render: h => h(App)
 })
