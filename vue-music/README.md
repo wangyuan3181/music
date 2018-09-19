@@ -23,4 +23,4 @@ vue2 + vue-router + vue-cli + vuex + jsonp + axios
 
 #### 项目演示
 
-<img src="https://github.com/wangyuan3181/uesdCar/blob/master/show/%E5%88%86%E9%A1%B5%E6%9D%A1.gif" width="500" height="500"/> <img
+<img src="https://github.com/wangyuan3181/music/blob/master/vue-music/static/show.gif" width="900" height="600"/>
